@@ -7,5 +7,6 @@ description = "Rust Library for working with cowsay"
 license = "MIT"
 repository = "https://github.com/linuxfanboy4/fcowsay.git"
 homepage = "https://github.com/linuxfanboy4/fcowsay.git"
+readme = "https://raw.githubusercontent.com/linuxfanboy4/fcowsay/refs/heads/main/README.md"
 
 [dependencies]
